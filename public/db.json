@@ -1,0 +1,54 @@
+{
+  "Mobiles": [
+    {
+      "id": 1,
+      "MobileName": "iPhone 15",
+      "MobileModel": "Apple",
+      "MobilePrice": 799,
+      "ReleaseDate": "09/22/2023",
+      "NetworkCompatibility": "5G", 
+      "URL": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "published": true
+    },
+    {
+      "id": 2,
+      "MobileName": "Galaxy S24",
+      "MobileModel": "Samsung",
+      "MobilePrice": 859,
+      "ReleaseDate": "01/31/2024",
+      "NetworkCompatibility": "5G", 
+      "URL": "https://www.samsung.com/us/smartphones/galaxy-s24/buy",
+      "published": true
+    },
+    {
+      "id": 3,
+      "MobileName": "Pixel 8",
+      "MobileModel": "Google",
+      "MobilePrice": 499,
+      "ReleaseDate": "10/04/2023",
+      "NetworkCompatibility": "5G", 
+      "URL": "https://store.google.com/us/product/pixel_8",
+      "published": true
+    },
+    {
+      "id": 4,
+      "MobileName": "OnePlus 12",
+      "MobileModel": "OnePlus",
+      "MobilePrice": 899,
+      "ReleaseDate": "01/23/2024",
+      "NetworkCompatibility": "5G", 
+      "URL": "https://www.oneplus.com/us/oneplus-12",
+      "published": true
+    },
+    {
+      "id": 5,
+      "MobileName": "Xiaomi 13T Pro",
+      "MobileModel": "Xiaomi",
+      "MobilePrice": 1680,
+      "ReleaseDate": "09/26/2023",
+      "NetworkCompatibility": "5G", 
+      "URL": "https://miusastore.com/product/xiaomi-13t-pro-5g/",
+      "published": true
+    }
+  ]
+}
